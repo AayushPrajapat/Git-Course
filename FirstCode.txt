@@ -2,5 +2,8 @@ Hello World !!
 take input from user
 add the values
 10 2 
-System.out.println("Helllo World");
+for(int i =0; i<10; i++){
+    System.out.println("Helllo World");
+}
+
 
